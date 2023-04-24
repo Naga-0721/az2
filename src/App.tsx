@@ -10,14 +10,6 @@ function App() {
         <p>
           Hello this is Naga
         </p>
-        <a
-          className="App-link"
-          href="https://www.researchgate.net/publication/367067007_A_Study_on_Emergent_Augmented_Intelligence_Applications_in_Structural_Engineering"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Checkout my Research paper
-        </a>
       </header>
     </div>
   );
